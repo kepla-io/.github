@@ -1,6 +1,6 @@
 # We make it simple for businesses to run effective digital ads.
 
-Kepla is a digital advertising agency in your pocket. Our tool helps you create, manage and optimise your ads so you can focus on growing your business.
+[Kepla](https://kepla.io) is a digital advertising agency in your pocket. Our tool helps you create, manage and optimise your ads so you can focus on growing your business.
 
 ## What you get with Kepla
 
@@ -35,3 +35,5 @@ Get tailored strategy, advice, tactics and help on how to grow your business and
 - Digital marketing specialist support
 - Ongoing strategy, advice and tactics
 - One-on-one catch ups to discuss performance
+
+**[Join Beta Waitlist](https://kepla.io)**
